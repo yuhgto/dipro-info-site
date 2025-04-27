@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Home Page on Dipro Bhowmik</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in The Home Page on Dipro Bhowmik</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Apr 2025 18:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Think about these 4 things before vibe-coding your next app</title>
+      <link>http://localhost:1313/posts/think-before-you-vibecode/</link>
+      <pubDate>Fri, 25 Apr 2025 18:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/think-before-you-vibecode/</guid>
+      <description>&lt;p&gt;I don’t know who needs to hear this, but hold off vibe-coding your next production app&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Vibe coding apps like Lovable &amp;amp; Base44 will make it easy for power users to build custom software without code.&lt;/p&gt;
+&lt;p&gt;But try going to market with your application.&lt;/p&gt;
+&lt;h2 id=&#34;gtm-challenges&#34;&gt;GTM challenges&lt;/h2&gt;
+&lt;p&gt;What do you do when a customer:
+1️⃣ Asks you which TLS cipher suites you support? (Or worse, asks you to stop supporting outdated ones)
+2️⃣ Needs their data stored in Australia?
+3️⃣ Sees a Lovable URL in the dev tools?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;this-is-me&#34;&gt;This is me&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m Dipro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
