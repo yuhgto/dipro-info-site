@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dipro.fyi/'
 languageCode = 'en-us'
 title = 'Dipro Bhowmik'
 theme = 'PaperMod'
