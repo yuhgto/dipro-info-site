@@ -1,3 +1,10 @@
+*.code-workspace
+.env
+
+# build folders
+/public
+/build
+
 # Generated files by hugo
 /public/
 /resources/_gen/

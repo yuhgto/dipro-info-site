@@ -1,13 +1,15 @@
 +++
-date = '2025-01-30T03:36:57-08:00'
+date = '2025-04-25T03:36:57-08:00'
 draft = false
-title = 'The Home Page'
+title = 'Home'
 [params]
-  subtitle = 'The Subtitle'
+  subtitle = 'About Dipro Bhowmik'
 +++
 
-Dipro Bhowmik is a developer advocate who loves building things and helping people. 
+I'm Dipro.
 
-Right now I help people build apps for the monday.com platform. I help customers use our developer tools more effectively, coach developers through the monday marketplace listing process, and make Youtube videos. 
+I am a developer advocate who loves building things and enabling others to do the same. 
+
+Right now, I help people build apps for the monday.com platform. I make content to help customers use our developer tools more effectively, I coach developers in our community, and make Youtube videos. 
 
 [Github](https://github.com/yuhgto) | [LinkedIn](https://www.linkedin.com/in/dipro-bhowmik/)
