@@ -10,6 +10,6 @@ I'm Dipro.
 
 I am a developer advocate who loves building things and enabling others to do the same. 
 
-Right now, I help people build apps for the monday.com platform. I make content to help customers use our developer tools more effectively, I coach developers in our community, and make Youtube videos. 
+Right now, I work on developer experience at Shaped. I make content to help customers use our developer platform more effectively. 
 
 [Github](https://github.com/yuhgto) | [LinkedIn](https://www.linkedin.com/in/dipro-bhowmik/)
