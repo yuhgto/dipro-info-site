@@ -8,10 +8,14 @@ theme = 'PaperMod'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Work'
-    pageRef = '/posts'
-    weight = 20
-  [[menus.main]]
     name = 'About'
     pageRef = '/about'
+    weight = 20
+  [[menus.main]]
+    name = 'Work'
+    pageRef = '/posts'
+    weight = 25
+  [[menus.main]]
+    name = 'Garden'
+    pageRef = '/garden'
     weight = 30
